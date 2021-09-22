@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-22T08:27:39.144Z" agent="5.0 (Windows)" etag="tzV3Uap5njcizY6uAagt" version="14.9.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-22T08:30:36.279Z" agent="5.0 (Windows)" etag="Of6L-va-iGpOCDpD5fXR" version="14.9.9" type="github">
   <diagram id="acEJrxjFhiaEBB2siO5W" name="Page-1">
     <mxGraphModel dx="3231" dy="1112" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -17,7 +17,7 @@
           <mxGeometry x="800" y="730" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xMg5sKtqhx4sAsG4TyxQ-5" value="Automobilių skelbimų svetainė" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1049" y="800" width="120" height="60" as="geometry" />
+          <mxGeometry x="980" y="620" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xMg5sKtqhx4sAsG4TyxQ-6" value="&lt;div&gt;Kuria naują funkcionalumą&lt;/div&gt;" style="endArrow=classic;html=1;" edge="1" parent="1" source="xMg5sKtqhx4sAsG4TyxQ-4" target="xMg5sKtqhx4sAsG4TyxQ-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -29,16 +29,28 @@
           <mxGeometry x="830" y="390" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xMg5sKtqhx4sAsG4TyxQ-8" value="Pardavėjai" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="1280" y="430" width="30" height="60" as="geometry" />
+          <mxGeometry x="1370" y="410" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xMg5sKtqhx4sAsG4TyxQ-9" value="Pirkėjai" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="1280" y="560" width="30" height="60" as="geometry" />
+          <mxGeometry x="1400" y="560" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xMg5sKtqhx4sAsG4TyxQ-11" value="Reklamų užsakovai" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="640" y="980" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xMg5sKtqhx4sAsG4TyxQ-12" value="Administracija" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="220" y="430" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xMg5sKtqhx4sAsG4TyxQ-14" value="&lt;div&gt;Naršo svetainėje, ieško norimo automobilio&lt;/div&gt;" style="endArrow=classic;html=1;" edge="1" parent="1" source="xMg5sKtqhx4sAsG4TyxQ-9" target="xMg5sKtqhx4sAsG4TyxQ-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1290" y="720" as="sourcePoint" />
+            <mxPoint x="1340" y="670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xMg5sKtqhx4sAsG4TyxQ-16" value="Įkelia skelbimus į svetainę" style="endArrow=classic;html=1;" edge="1" parent="1" source="xMg5sKtqhx4sAsG4TyxQ-8" target="xMg5sKtqhx4sAsG4TyxQ-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1220" y="590" as="sourcePoint" />
+            <mxPoint x="1270" y="540" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
