@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-22T08:40:37.563Z" agent="5.0 (Windows)" etag="eBVkOEUTdT-A9DoRRhcB" version="14.9.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-22T08:42:18.856Z" agent="5.0 (Windows)" etag="H_pCiul-oY67mJEIXOzY" version="14.9.9" type="github">
   <diagram id="acEJrxjFhiaEBB2siO5W" name="Page-1">
     <mxGraphModel dx="3231" dy="1112" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -32,7 +32,7 @@
           <mxGeometry x="1600" y="410" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xMg5sKtqhx4sAsG4TyxQ-9" value="Pirkėjai" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="1630" y="560" width="30" height="60" as="geometry" />
+          <mxGeometry x="1620" y="710" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xMg5sKtqhx4sAsG4TyxQ-11" value="Reklamų užsakovai" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="660" y="1060" width="30" height="60" as="geometry" />
@@ -94,10 +94,21 @@
             <mxPoint x="600" y="460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="xMg5sKtqhx4sAsG4TyxQ-29" value="Bendrauja žinomumo, užsakovų klausimais" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="xMg5sKtqhx4sAsG4TyxQ-27">
+          <mxGeometry x="-0.1681" y="-1" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="xMg5sKtqhx4sAsG4TyxQ-28" value="&lt;div&gt;Siūlo būdus, kaip padaryti produktą dar patrauklesniu&lt;/div&gt;&lt;div&gt;ir perduoda, kokias reklamas reikia pridėti į svetainę&lt;br&gt;&lt;/div&gt;" style="endArrow=classic;html=1;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="xMg5sKtqhx4sAsG4TyxQ-7" target="xMg5sKtqhx4sAsG4TyxQ-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="990" y="600" as="sourcePoint" />
             <mxPoint x="1040" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xMg5sKtqhx4sAsG4TyxQ-30" value="Derasi dėl automobilio" style="endArrow=classic;startArrow=classic;html=1;" edge="1" parent="1" source="xMg5sKtqhx4sAsG4TyxQ-9" target="xMg5sKtqhx4sAsG4TyxQ-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1640" y="640" as="sourcePoint" />
+            <mxPoint x="1690" y="590" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
