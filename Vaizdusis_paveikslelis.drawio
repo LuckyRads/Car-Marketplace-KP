@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-22T08:26:36.563Z" agent="5.0 (Windows)" etag="7JXOOMh7u362GzC_rWcj" version="14.9.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-22T08:27:39.144Z" agent="5.0 (Windows)" etag="tzV3Uap5njcizY6uAagt" version="14.9.9" type="github">
   <diagram id="acEJrxjFhiaEBB2siO5W" name="Page-1">
-    <mxGraphModel dx="2887" dy="927" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="3231" dy="1112" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -24,6 +24,21 @@
             <mxPoint x="1010" y="760" as="sourcePoint" />
             <mxPoint x="1060" y="710" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="xMg5sKtqhx4sAsG4TyxQ-7" value="Marketingo specialistai" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="830" y="390" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xMg5sKtqhx4sAsG4TyxQ-8" value="Pardavėjai" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="430" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xMg5sKtqhx4sAsG4TyxQ-9" value="Pirkėjai" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="560" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xMg5sKtqhx4sAsG4TyxQ-11" value="Reklamų užsakovai" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="640" y="980" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xMg5sKtqhx4sAsG4TyxQ-12" value="Administracija" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="430" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
